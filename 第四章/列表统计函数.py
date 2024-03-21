@@ -1,0 +1,6 @@
+numbers = list(range(100))
+print("min:", min(numbers))
+print("max:", max(numbers))
+print("sum:", sum(numbers))
+print("len:", len(numbers))
+print("avg:", sum(numbers)/len(numbers))
