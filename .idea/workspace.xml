@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d28f191-3ca2-4b24-ab6b-1f78ec88f6ff" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/第六章/字典dict练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章/遍历字典键值对.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章/遍历字典键列表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +91,8 @@
     "Python.字典添加数据.executor": "Run",
     "Python.字典的修改.executor": "Run",
     "Python.条件测试练习题.executor": "Run",
+    "Python.遍历字典键值对.executor": "Run",
+    "Python.遍历字典键列表.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
@@ -108,7 +111,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -201,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711180888461</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1711243241072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711243241072</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
