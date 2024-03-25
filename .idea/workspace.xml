@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d28f191-3ca2-4b24-ab6b-1f78ec88f6ff" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/第六章/遍历字典练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章/嵌套-列表元素是字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章/嵌套-字典的value是列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章/嵌套-字典的value是字典.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第六章/遍历字典练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/第六章/遍历字典练习题.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +92,9 @@
     "Python.字典定义.executor": "Run",
     "Python.字典添加数据.executor": "Run",
     "Python.字典的修改.executor": "Run",
+    "Python.嵌套-列表元素是字典.executor": "Run",
+    "Python.嵌套-字典的value是列表.executor": "Run",
+    "Python.嵌套-字典的value是字典.executor": "Run",
     "Python.条件测试练习题.executor": "Run",
     "Python.遍历字典值的列表.executor": "Run",
     "Python.遍历字典练习题.executor": "Run",
@@ -229,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711259967968</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1711262405608</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711262405608</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
