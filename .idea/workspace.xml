@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d28f191-3ca2-4b24-ab6b-1f78ec88f6ff" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/第六章/集合set练习题.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第六章/字典嵌套练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/第六章/字典嵌套练习题.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,42 +70,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.for循环判断奇偶数.executor": "Run",
-    "Python.for注册用户判断.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.if入门.executor": "Run",
-    "Python.if判断列表为空.executor": "Run",
-    "Python.if判断年龄练习题.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.两数之和练习题.executor": "Run",
-    "Python.列表循环练习题.executor": "Run",
-    "Python.列表的定义练习题.executor": "Run",
-    "Python.列表练习题_计算平方和.executor": "Run",
-    "Python.列表统计函数.executor": "Run",
-    "Python.字典dict练习题.executor": "Run",
-    "Python.字典定义.executor": "Run",
-    "Python.字典嵌套练习题.executor": "Run",
-    "Python.字典添加数据.executor": "Run",
-    "Python.字典的修改.executor": "Run",
-    "Python.嵌套-列表元素是字典.executor": "Run",
-    "Python.嵌套-字典的value是列表.executor": "Run",
-    "Python.嵌套-字典的value是字典.executor": "Run",
-    "Python.条件测试练习题.executor": "Run",
-    "Python.遍历字典值的列表.executor": "Run",
-    "Python.遍历字典练习题.executor": "Run",
-    "Python.遍历字典键值对.executor": "Run",
-    "Python.遍历字典键列表.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PycharmProjects/pythonProject",
-    "settings.editor.selected.configurable": "settings.qodana"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.for循环判断奇偶数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for注册用户判断.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if入门.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if判断列表为空.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if判断年龄练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.两数之和练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.元组的演示.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表循环练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表推导式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表的切片.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表的定义练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表练习题_计算平方和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表统计函数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.变量三次更新.executor&quot;: &quot;Run&quot;,
+    &quot;Python.变量的类型.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典dict练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典定义.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典嵌套练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典添加数据.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典的修改.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字符串删除空白.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字符串练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.嵌套-列表元素是字典.executor&quot;: &quot;Run&quot;,
+    &quot;Python.嵌套-字典的value是列表.executor&quot;: &quot;Run&quot;,
+    &quot;Python.嵌套-字典的value是字典.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数字计算菜价.executor&quot;: &quot;Run&quot;,
+    &quot;Python.条件测试练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.遍历字典值的列表.executor&quot;: &quot;Run&quot;,
+    &quot;Python.遍历字典练习题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.遍历字典键值对.executor&quot;: &quot;Run&quot;,
+    &quot;Python.遍历字典键列表.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\pythonProject" />
@@ -257,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711359613822</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1711362069466</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711362069466</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
