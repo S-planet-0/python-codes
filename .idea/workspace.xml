@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d28f191-3ca2-4b24-ab6b-1f78ec88f6ff" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Python练习100例/练习1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python练习100例/练习2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python练习100例/练习3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python练习100例/练习1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python练习100例/练习2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python练习100例/练习3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +47,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="7b18b905-330e-4c26-a560-12df947df992" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="7b18b905-330e-4c26-a560-12df947df992" />
-        <option name="url" value="https://github.com/S-planet-0/pythonProject-Pycharm.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/S-planet-0/python-codes-0.git",
+    "accountId": "72c35153-f652-4e5f-a098-9040f8a3ab66"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/第六章/字典dict练习题.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/第六章/字典推导式.py" root0="SKIP_HIGHLIGHTING" />
@@ -118,7 +117,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PycharmProjects/pythonProject",
+    "last_opened_file_path": "/Users/splanet0/python-codes",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -132,7 +131,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
