@@ -1,0 +1,4 @@
+sheep,羊
+tiger,老虎
+duck,鸭子
+fish,鱼
